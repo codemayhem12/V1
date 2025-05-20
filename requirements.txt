@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+git+https://github.com/scikit-learn-contrib/imbalanced-learn.git@master
+streamlit
+mlflow
+watchdog
